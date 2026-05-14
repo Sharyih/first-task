@@ -16,3 +16,4 @@ local host/greeting?name=YOURNAME
 
 Example:
 http://localhost:8080/greeting?name=Sharjeel
+![Greeting](Greeting.png)
